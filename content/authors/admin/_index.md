@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Akash Choudhuri
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Akash
+last_name: Choudhuri
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,76 +23,78 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Candiate in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Iowa
+    url: https://cs.uiowa.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:akash-choudhuri@uiowa.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/akash_choudhuri
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Soothysay
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/akash-choudhuri/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=HaNARFsAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-4323-6358
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Machine Learning
+  - Natural Language Processing
+  - Uncertainty Quantification
+  - Healthcare Analytics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Computer Science
+    institution: University of Iowa
     icon: ""
-    date_start: 2015-09-01
+    date_start: 2022-01-11
+    date_end: 2026-10-30
+    summary: |
+      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Dr. Bijaya Adhikari.
+      GPA: 3.78/4.0
+  - area: MS Computer Science
+    institution: University of Iowa
+    icon: ""
+    date_start: 2022-01-11
+    date_end: 2025-04-30
+    summary: |
+      GPA: 3.76/4.0
+  - area: MSc Mathematics with Data Science
+    institution: Institute of Mathematics and Applications, Bhubaneswar
+    icon: ""
+    date_start: 2019-07-01
+    date_end: 2021-06-31
+    summary: |
+      GPA: 8.78/10.0
+  - area: BSc Mathematics and Computing
+    institution: Birla Institute of Technology, Mesra
+    icon: ""
+    date_start: 2016-07-01
     date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      GPA: 8.0/10.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Summer Graduate Research Intern
+    company_name: Marshfield Clinic Research Institute
+    company_url: 'https://marshfieldresearch.org/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2025-01-01
+    date_end: '2025-08-08'
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
+      Fixing existing issues in the current rule-based algorithm and integration of confidence-based addition of supplementary data. Resultant fixes provides 12x speedup over previous version. Currently preparing a submission to JAMIA.
+  - position: Intern, Data Science Summer Institute
     company_name: OpenAI
     company_url: 'https://openai.com/'
     icon: ''
